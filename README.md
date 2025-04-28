@@ -26,6 +26,6 @@ I'm currently learning about AI algorithms with a strong interest in applying th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/donlasSR"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=donlasSR&bg_color=1c1917&color=ffffff&line=22c55e&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/donlasSR"><img src="https://github-readme-streak-stats.herokuapp.com/?user=donlasSR&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/donlasSR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donlasSR&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
